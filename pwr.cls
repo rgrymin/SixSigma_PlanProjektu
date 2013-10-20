@@ -229,7 +229,7 @@
 \textheight 25cm
 
 %definicje danych do utworzenia strony tyułowej
-\newcommand{\@naglowek}{ALGORYTMY WSPOMAGANIA DECYZJI\\PLAN PROJEKTU}
+\newcommand{\@naglowek}{ALGORYTMY WSPOMAGANIA DECYZJI}
 \newcommand{\@napisProwadzacy}{Prowadz\k{a}cy projekt:}
 \newcommand{\@napisOcena}{\ }
 \if@eng
